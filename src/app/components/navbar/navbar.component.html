@@ -17,7 +17,7 @@
           </li>
         </ul>
       </div>
-      <div *ngIf="utente">
+      <div class="logged" *ngIf="utente">
        <p> Benvenuto {{utente.user.username}}</p>
        <button type="button" class="btn btn-danger ms-2 float-end" (click)="logout()">Logout</button>
       </div>

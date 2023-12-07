@@ -1,3 +1,10 @@
 {
-    "users": []
+  "users": [
+    {
+      "email": "paolo@paolo.com",
+      "password": "$2a$10$i5qPfQXPirOKCqF7WuzX..3BJX6yrEYz5H45oDx1x9jbbqjebv056",
+      "username": "Paolo Paolo",
+      "id": 1
+    }
+  ]
 }
